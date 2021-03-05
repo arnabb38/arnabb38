@@ -2,11 +2,12 @@
 
 <br>
 
-<!-- <p align="center">
-  <img src="assets/frankestien_pre2.gif">
-</p> -->
+<p align="center">
+<img src="assets/frankestien_pre2.gif" alt="frankestien" width="80%">
 
-<img align="center" src="assets/frankestien_pre2.gif" alt="frankestien" width="100%">
+</p>
+
+<!-- <img align="center" src="assets/frankestien_pre2.gif" alt="frankestien" width="80%"> -->
 
 ---
 
