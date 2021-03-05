@@ -1,34 +1,36 @@
-## Hey there, this is Arnab Basak. 👋
-
-<!-- ![happy face](assets/frankestien_pre2.gif) -->
-<!-- <img src="drawing.jpg" alt="drawing" width="200"/> -->
-
+## Hey there, this is Arnab. :zombie_man: 👋
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/frankestien_pre2.gif">
-</p>
+</p> -->
+
+<img align="center" src="assets/frankestien_pre2.gif" alt="frankestien" width="100%">
+
+---
 
 <p align="center">  
-  <b>REACH ME AT</b><br><br>
-  <a href="#"><img src="assets/social-linkedin-circle-512.png" width="30"></a> <b>•</b>
-  <a href="#"><img src="assets/25231.png" width="30"></a> <b>•</b>
-  <a href="#"><img src="assets/facebook-logo-2019-1597680-1350125.png" width="28"></a>  <b>•</b>  
-  <a href="#"><img src="assets/skype-logo.png" width="18"></a>
+  <b>REACH ME @</b><br><br>
+  <a href="https://www.linkedin.com/in/arnab-basak"><img src="assets/icons8-linkedin-64.png" width="50"></a> <b>•</b>
+  <a href="mailto:arnabbasak896@gmail.com"><img src="assets/icons8-mail-64.png" width="50"></a> <b>•</b>
+  <a href="https://www.github.com/arnabb38"><img src="assets/icons8-github-64.png" width="50"></a>  <b>•</b>  
+  <a href="skype:arnabbasak7?chat"><img src="assets/icons8-skype-64.png" width="50"></a> <b>•</b>
+  <a href="https://www.facebook.com/arnab.basak.585"><img src="assets/icons8-facebook-64.png" width="50"></a>
   <br>  
 </p>
 
 ---
+
 <!-- **arnabb38/arnabb38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
