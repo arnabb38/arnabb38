@@ -12,9 +12,9 @@
 
 <p align="center">  
   <b>REACH ME AT</b><br><br>
-  <a href="#"><img src="assets/social-linkedin-circle-512.png" width="20"></a> <b>•</b>
-  <a href="#"><img src="assets/25231.png" width="20"></a> <b>•</b>
-  <a href="#"><img src="assets/facebook-logo-2019-1597680-1350125.png" width="18"></a>  <b>•</b>  
+  <a href="#"><img src="assets/social-linkedin-circle-512.png" width="30"></a> <b>•</b>
+  <a href="#"><img src="assets/25231.png" width="30"></a> <b>•</b>
+  <a href="#"><img src="assets/facebook-logo-2019-1597680-1350125.png" width="28"></a>  <b>•</b>  
   <a href="#"><img src="assets/skype-logo.png" width="18"></a>
   <br>  
 </p>
