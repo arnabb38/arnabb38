@@ -1,13 +1,10 @@
-## Hey there, this is Arnab. :zombie_man: 👋
-
-<br>
-
 <p align="center">
 <img src="assets/frankestien_pre2.gif" alt="frankestien" width="80%">
-
 </p>
 
-<!-- <img align="center" src="assets/frankestien_pre2.gif" alt="frankestien" width="80%"> -->
+<p align="center">
+<font size="6">HAVE ANY <span style="color:red">IDEA</span>?  :zombie_man: 👋</font>
+</p>
 
 ---
 
