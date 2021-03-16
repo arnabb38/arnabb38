@@ -1,15 +1,15 @@
 <p align="center">
-<img src="assets/frankestien_pre2.gif" alt="frankestien" width="80%">
+<img src="assets/frankestien_pre2.gif" alt="frankestien" width="70%">
 </p>
 
 <p align="center">
-<font size="6">HAVE ANY <span style="color:red">IDEA</span>?  :zombie_man: 👋</font>
+<font size="6"><b> HAVE ANY <span style="color:red">PROJECT IDEA</span>?</b>  :zombie_man: 👋</font>
 </p>
 
 ---
 
 <p align="center">  
-  <b>REACH ME @</b><br><br>
+  <b>NEED ME? REACH ME @</b><br><br>
   <a href="https://www.linkedin.com/in/arnab-basak"><img src="assets/icons8-linkedin-64.png" width="50"></a> <b>•</b>
   <a href="mailto:arnabbasak896@gmail.com"><img src="assets/icons8-mail-64.png" width="50"></a> <b>•</b>
   <a href="https://www.github.com/arnabb38"><img src="assets/icons8-github-64.png" width="50"></a>  <b>•</b>  
