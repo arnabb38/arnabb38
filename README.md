@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/frankestien_pre2.gif" alt="frankestien" width="70%">
+<img src="assets/frankestien_pre2.gif" alt="frankestien" width="60%">
 </p>
 
 <p align="center">
