@@ -9,7 +9,7 @@
 ---
 
 <p align="center">  
-  <b>NEED ME? REACH ME @</b><br><br>
+  <b>REACH ME @</b><br><br>
   <a href="https://www.linkedin.com/in/arnab-basak"><img src="assets/icons8-linkedin-64.png" width="50"></a> <b>•</b>
   <a href="mailto:arnabbasak896@gmail.com"><img src="assets/icons8-mail-64.png" width="50"></a> <b>•</b>
   <a href="https://www.github.com/arnabb38"><img src="assets/icons8-github-64.png" width="50"></a>  <b>•</b>  
