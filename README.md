@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/arnab-basak"><img src="assets/icons8-linkedin-64.png" width="50"></a> <b>•</b>
   <a href="mailto:arnabbasak896@gmail.com"><img src="assets/icons8-mail-64.png" width="50"></a> <b>•</b>
   <a href="https://www.github.com/arnabb38"><img src="assets/icons8-github-64.png" width="50"></a>  <b>•</b>  
-  <a href="skype:arnabbasak7?chat"><img src="assets/icons8-skype-64.png" width="50"></a> <b>•</b>
+  <a href="https://join.skype.com/invite/hrjzp1VKrg03"><img src="assets/icons8-skype-64.png" width="50"></a> <b>•</b>
   <a href="https://www.facebook.com/arnab.basak.585"><img src="assets/icons8-facebook-64.png" width="50"></a>
   <br>  
 </p>
