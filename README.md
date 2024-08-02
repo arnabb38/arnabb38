@@ -1,17 +1,9 @@
-## 📈 GitHub Stats
+## 📈 Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arnabb38&color=blue)
 
-<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=arnabb38&show_icons=true&theme=onedark&hide=contribs,prs) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabb38&layout=compact&theme=onedark)](https://github.com/arnabb38/github-readme-stats) -->
-
-<a>
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=arnabb38&show_icons=true&theme=onedark&hide=contribs,prs" />
-</a>
-<a>
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabb38&layout=compact&theme=onedark)](https://github.com/arnabb38/github-readme-stats" />
-</a>
+| <a><img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=arnabb38&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true&hide=contribs,prs" alt="Anurag's github stats" /></a> | <a><img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabb38&layout=compact&theme=onedark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## 📫 Ping Me Here
 
