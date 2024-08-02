@@ -1,35 +1,21 @@
-<p align="center">
-<img src="assets/frankestien_pre2.gif" alt="frankestien" width="60%">
-</p>
+## 📈 GitHub Stats
 
-<p align="center">
-<font size="6"><b> HAVE ANY <span style="color:red">PROJECT IDEA</span>?</b>  :zombie_man: 👋</font>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=arnabb38&color=blue)
 
----
+<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=arnabb38&show_icons=true&theme=onedark&hide=contribs,prs) -->
 
-<p align="center">  
-  <b>REACH ME @</b><br><br>
-  <a href="https://www.linkedin.com/in/arnab-basak" target="_blank"><img src="assets/icons8-linkedin-64.png" width="50"></a> <b>•</b>
-  <a href="mailto:arnabbasak896@gmail.com" target="_blank"><img src="assets/icons8-mail-64.png" width="50"></a> <b>•</b>
-  <a href="https://www.github.com/arnabb38" target="_blank"><img src="assets/icons8-github-64.png" width="50"></a>  <b>•</b>  
-  <a href="https://www.gitlab.com/arnab.basak" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" width="50"></a>  <b>•</b>  
-  <a href="https://join.skype.com/invite/hrjzp1VKrg03" target="_blank"><img src="assets/icons8-skype-64.png" width="50"></a> <b>•</b>
-  <a href="https://www.facebook.com/arnab.basak.585" target="_blank"><img src="assets/icons8-facebook-64.png" width="50"></a>
-  <br>  
-</p>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabb38&layout=compact&theme=onedark)](https://github.com/arnabb38/github-readme-stats) -->
 
----
+<a>
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=arnabb38&show_icons=true&theme=onedark&hide=contribs,prs" />
+</a>
+<a>
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabb38&layout=compact&theme=onedark)](https://github.com/arnabb38/github-readme-stats" />
+</a>
 
-<!-- **arnabb38/arnabb38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Ping Me Here
 
-Here are some ideas to get you started: -->
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-basak/)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/arnab.basak)
+[![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](skype:arnabbasak7?chat)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnabbasak896@gmail.com)
