@@ -1,34 +1,35 @@
 <h1 align="center">Hi, I'm Arnab Basak 👋</h1>
-<p align="center"><b>Software Engineering Manager · Technical Project &amp; Product Delivery</b><br/>
-FinTech · Digital Banking · Payments · Regulated Platforms</p>
+<p align="center"><b>Engineering manager who still codes</b><br/>
+Java · Spring Boot · Node.js · Python · PostgreSQL · DevOps · Automation</p>
 
 <p align="center">
   <a href="https://arnabb38.github.io"><img src="https://img.shields.io/badge/Portfolio-arnabb38.github.io-222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/arnab-basak/"><img src="https://img.shields.io/badge/LinkedIn-arnab--basak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://gitlab.com/arnab.basak"><img src="https://img.shields.io/badge/GitLab-arnab.basak-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
   <a href="mailto:arnabbasak896@gmail.com"><img src="https://img.shields.io/badge/Email-arnabbasak896%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-I lead engineering and product delivery for platforms where unannounced downtime isn't a technical event, it's a trust event. I started as an engineer and moved into management, and I still stay close to the work: requirements, PRDs, production incidents, infrastructure and monitoring.
+I build backend services, automate the boring parts of delivery, and keep systems observable. My day job is leading engineering teams on banking and payments software, and I stay hands-on with code, databases and infrastructure.
 
-- 🏦 **Focus:** digital banking, payments and regulated platforms.
-- 🧭 **What I do:** lead engineering teams, turn requirements into PRDs and roadmaps, and take products from discovery to release and production support.
-- 🤖 **How I work:** Scrum, test automation, CI/CD, observability, and an **AI-augmented SDLC** with human review before anything ships.
-- 🌱 **On GitHub:** personal projects, automation scripts and things I'm learning.
+- ⚙️ **Backend:** REST APIs and services in Java/Spring Boot and Node.js, PostgreSQL schema and query tuning.
+- 🚀 **DevOps:** GitLab CI/CD pipelines, Docker, Linux servers, Ansible playbooks for repeatable setup.
+- 📊 **Observability:** Prometheus, Grafana and Alertmanager for metrics and alerting; Graylog and Zipkin for logs and tracing.
+- 🤖 **Automation:** Python and shell scripts, n8n workflows, and AI coding agents with human review.
+- 🌱 **Here on GitHub:** personal tools, automation scripts and things I'm learning. Most of my work code lives in private repositories.
 
-More about my background is on my **[portfolio](https://arnabb38.github.io)** and **[LinkedIn](https://www.linkedin.com/in/arnab-basak/)**.
+## 🛠️ Tech stack
 
-## 🛠️ Tech I work with
-
-**Delivery:** Agile/Scrum · Jira · GitLab · PRDs and acceptance criteria · Stakeholder management · Product roadmap<br/>
-**Backend:** Java · Spring Boot · Node.js · Python · Laravel<br/>
+**Languages:** Java · JavaScript/TypeScript · Python · Shell · PHP<br/>
+**Frameworks:** Spring Boot · Node.js (Hapi) · Laravel · Angular · Flutter<br/>
 **Data:** PostgreSQL · Oracle · Supabase<br/>
-**Ops:** Docker · GitLab CI/CD · Linux · Proxmox · Ansible · Prometheus · Grafana · Alertmanager · Graylog · Zipkin<br/>
-**Automation:** n8n · AI coding agents
+**DevOps:** Docker · GitLab CI/CD · Linux · Proxmox · Ansible<br/>
+**Monitoring:** Prometheus · Grafana · Alertmanager · Graylog · Zipkin<br/>
+**Automation:** n8n · AI coding agents · Jira
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,py,laravel,postgres,docker,gitlab,linux,ansible,prometheus,grafana,jira&perline=14" alt="Tech icons"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,py,bash,laravel,angular,flutter,postgres,docker,gitlab,linux,ansible,prometheus,grafana&perline=16" alt="Tech icons"/>
 </p>
 
 ## 📈 GitHub stats
