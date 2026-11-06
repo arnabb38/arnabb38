@@ -12,21 +12,12 @@ FinTech · Digital Banking · Payments · Regulated Platforms</p>
 
 I lead engineering and product delivery for platforms where unannounced downtime isn't a technical event, it's a trust event. I started as an engineer and moved into management, and I still stay close to the work: requirements, PRDs, production incidents, infrastructure and monitoring.
 
-- 🏦 **Now:** leading a 20-person team at **Celloscope** on a state-owned bank's digital banking platform: retail internet banking for **670,000+ customers**, corporate banking for **630+ institutional customers**, and a branch portal for **2,700+ users**.
-- 🔗 **Integrations:** core banking, BEFTN and NPSB payment rails, Bangla QR, bKash and Nagad wallets, payment gateways, and Election Commission eKYC.
-- 🏛️ **Regulators:** about seven years of systems for five regulators (central bank, tax, insurance, telecom and microcredit).
-- 🤖 **How I work:** Scrum, sprints planned at about 80% of team capacity, 90% automated test coverage, 15-minute releases, and an **AI-augmented SDLC** with human review before anything ships.
+- 🏦 **Focus:** digital banking, payments and regulated platforms.
+- 🧭 **What I do:** lead engineering teams, turn requirements into PRDs and roadmaps, and take products from discovery to release and production support.
+- 🤖 **How I work:** Scrum, test automation, CI/CD, observability, and an **AI-augmented SDLC** with human review before anything ships.
+- 🌱 **On GitHub:** personal projects, automation scripts and things I'm learning.
 
-## 📂 Selected work
-
-| Project | What it does | Result |
-|---|---|---|
-| **Digital banking platform** (2024–) | Retail, corporate and branch banking on one platform, connected to the national payment rails | 670k+ retail customers |
-| **Agent Licensing Online** (2021–) | National licensing platform for 1.1M+ insurance agents and 83 insurers; Best Innovation award | Licence approval 14 days → 24 hours |
-| **Customs Agent Management System** (2023–24) | One licence register for C&F agents across 19 customs offices, integrated with ASYCUDA World | 90% less manual processing |
-| **UniVerge ICX billing** (2023–) | Rebuilt telecom interconnect billing pipeline plus invoicing and re-rating app | 16M+ session detail records a day at about 5,000 records a second with accurate billing |
-
-Case studies with diagrams are on my **[portfolio](https://arnabb38.github.io)**.
+More about my background is on my **[portfolio](https://arnabb38.github.io)** and **[LinkedIn](https://www.linkedin.com/in/arnab-basak/)**.
 
 ## 🛠️ Tech I work with
 
@@ -48,5 +39,3 @@ Case studies with diagrams are on my **[portfolio](https://arnabb38.github.io)**
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=arnabb38&color=blue)
-
-<sub>Most of my professional work lives in private client repositories; this profile holds personal projects, scripts and learning repos.</sub>
